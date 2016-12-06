@@ -5,9 +5,9 @@ $Recycle.Bin
 360downloads
 360SANDBOX
 724a0c05ef8b27573a7869
-7c5ea04e004f8e8f3e713785bb
+7a04e004f8e8f3e713785bb
 AMD
-bab38001671f83c2c21179
+bab:38001671f83c2c21179
 Bitnami
 Boot
 bootmgr
@@ -21,11 +21,6 @@ Intel
 LenovoDrivers
 MSOCache
 PerfLogs
-Program Files
-Program Files (x86)
-ProgramData
-QMDownload
-Recovery
 seleniun ide
 swapfile.sys
 System Volume Information
